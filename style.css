@@ -11,6 +11,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   font-family: Khmer OS Battambang;
@@ -134,6 +135,7 @@ p.small {
 }
 .grid .btn:last-child {
   grid-column: 1 / -1; /* last item span full row */
+  width: 170px;
   justify-self: center; /* center horizontally */
 }
 /* small responsive tweak */
