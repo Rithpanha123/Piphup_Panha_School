@@ -1,7 +1,7 @@
 const words = [
-  "Hi, my name's Panha...!",
-  "I am a Developer.",
-  "Welcome to my website.",
+  // "Hi, my name's Panha...!",
+  // "I am a Developer.",
+  // "Welcome to my website.",
 ];
 
 let i = 0;
